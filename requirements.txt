@@ -1,0 +1,8 @@
+diffusers==0.2.4
+transformers
+scipy
+ftfy
+ipywidgets>=7,<8
+torch
+opencv-python
+huggingface_hub
