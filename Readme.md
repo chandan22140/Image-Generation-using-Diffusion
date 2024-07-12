@@ -12,7 +12,7 @@ This project uses the Diffusers library to generate images using a Stable Diffus
 
 3. Run the script:
     ```bash
-    python src/image_generation.py
+    python3 image_generation.py
     ```
 
 Ensure you have a valid Hugging Face token for authentication.
